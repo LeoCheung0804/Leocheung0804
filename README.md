@@ -8,8 +8,6 @@
 - 🎓 With a BSc in Engineering Physics and an MSc in Mechanical and Automation Engineering
 
 - 🚀 I'm all about innovation and making robots smarter, faster, and cooler. Let's revolutionize the world of robotics together!
-
-- 📄 Know about my experiences [leocheung0804.github.io/cv](leocheung0804.github.io/cv)
   
 # Skills and Experience
 
@@ -21,7 +19,7 @@
 
 - 📫 How to reach me **leocheung0804@gmail.com**
 
-- 📄 Know about my experiences [leocheung0804.github.io/cv](leocheung0804.github.io/cv)
+- 📄 Know about my experiences [leocml/cv](leocml/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
