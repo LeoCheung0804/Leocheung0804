@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **leocheung0804@gmail.com**
 
-- 📄 Know about my experiences [https://leocml/cv](https://leocml/cv)
+- 📄 Know about my experiences [https://leocml.com/cv](https://leocml.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
