@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate Mechanical Engineer with a flair for robotics and automation from Hong Kong</h3>
 
+## 🚀 About Me
+
 - 👦🏻 I’m Leo Cheung, a passionate Mechanical Engineer with a flair for robotics and automation
 
 - 🤖 I thrive on creating cutting-edge robotic systems that push the boundaries of technology
@@ -8,8 +10,8 @@
 - 🎓 With a BSc in Engineering Physics and an MSc in Mechanical and Automation Engineering
 
 - 🚀 I'm all about innovation and making robots smarter, faster, and cooler. Let's revolutionize the world of robotics together!
-  
-# Skills and Experience
+
+## Skills and Experience
 
 - 🔭 I’m currently working on [C3 Construction Robotics Limited](https://www.c3robotics.com.hk)
 
