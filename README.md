@@ -17,11 +17,9 @@
 
 - 🌱 I’m currently learning **Ros, Robotics, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [leocml.com](https://leocml.com/)
+- 👨‍💻 Know about my experiences [leocml.com](https://leocml.com/)
 
 - 📫 How to reach me **leocheung0804@gmail.com**
-
-- 📄 Know about my experiences [https://leocml.com/cv](https://leocml.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
